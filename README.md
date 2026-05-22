@@ -132,4 +132,4 @@ tianwen_clearC/
 
 ## 说明
 
-Tianwen ClearC 默认不跟随符号链接，避免循环扫描或重复统计。打包好的 `.exe`、`.app`、`.dmg`、`.zip` 建议通过 GitHub Releases 发布，不建议直接提交到源码仓库。
+Tianwen ClearC 默认不跟随符号链接，避免循环扫描或重复统计。打包好的 `.exe`、`.app`、`.dmg`、`.zip` 通过 GitHub Releases 发布，不直接提交到源码仓库！
